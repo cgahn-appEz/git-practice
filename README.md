@@ -1,2 +1,2 @@
 # git-practice
-git &amp; python TEST folder
+git 과 git hub실습을 위한 저장소
